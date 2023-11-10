@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600649128608",
+    "project_id": "finallyfirebase-51d8b",
+    "storage_bucket": "finallyfirebase-51d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600649128608:android:5c50e0a4758cac2a2947c5",
+        "android_client_info": {
+          "package_name": "com.affafistibsharazhar.finallyfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDznvcIhtIsUDifWDD3UmAxIcuWTyBEVys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
